@@ -22,7 +22,7 @@ h1 {
     text-align: center;
     margin-bottom: 30px;
     color: white;
-    text-shadow: 2px 1px #334892;
+    text-shadow: -2px -1px #334892;
 }
 
 svg#svg-azeri-xerite {
